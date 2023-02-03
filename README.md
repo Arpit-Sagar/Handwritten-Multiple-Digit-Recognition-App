@@ -1,5 +1,7 @@
 # MULTIPLE-Digit(Handwritten)-Recognition-App
 CNN Machine Learning Model GUI project
+
+
 An interactive GUI using tkinter,canvas,PIL,OpenCV libraries which accurately identifies the handwritten digit.
 
 Successfully trained on MNIST dataset of handwritten digits with testing accuracy of 99.19%
