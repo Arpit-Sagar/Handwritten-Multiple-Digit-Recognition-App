@@ -1,4 +1,4 @@
-# MULTIPLE-Digit(Handwritten)-Recognition-App
+# Handwritten Multiple Digit Recognition App
 CNN Machine Learning Model GUI project
 
 
