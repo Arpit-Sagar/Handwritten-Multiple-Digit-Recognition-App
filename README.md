@@ -14,3 +14,7 @@ Supported with amazing feature of multiple digits and to identify any NON-DIGIT 
 
 
 ![image](https://user-images.githubusercontent.com/96679459/209623841-6775d60d-466b-4017-8268-1d4abc143b02.png)
+
+For Activation of virtual environment:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+mlproj\Scripts\activate
