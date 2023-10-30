@@ -15,6 +15,10 @@
 
 ![image](https://user-images.githubusercontent.com/96679459/209623841-6775d60d-466b-4017-8268-1d4abc143b02.png)
 
+![image](https://github.com/Arpit-Sagar/Handwritten-Multiple-Digit-Recognition-App/assets/96679459/8ffada44-1004-44ac-92bb-6b0c453c8b1f)
+
+![image](https://github.com/Arpit-Sagar/Handwritten-Multiple-Digit-Recognition-App/assets/96679459/4b62ba02-83c0-4f39-9e4f-dce63013166c)
+
 For Activation of virtual environment:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 mlproj\Scripts\activate
